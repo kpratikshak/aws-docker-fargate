@@ -20,8 +20,8 @@ This project demonstrates:
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/Imash24/ECS-FLASK-APP/
-cd ECS-FLASK-APP
+git clone https://github.com/kpratikshak/aws-docker-fargate
+cd aws-docker-fargate
 
 
 2. Create Python Virtual Environment.
